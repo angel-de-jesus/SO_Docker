@@ -1,12 +1,21 @@
 {
   "name": "mydocker",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "author": "angel gonzalez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel-de-jesus/SO_Docker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/angel-de-jesus/SO_Docker/issues"
+  },
+  "homepage": "https://github.com/angel-de-jesus/SO_Docker#readme",
+  "description": ""
 }
