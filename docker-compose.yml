@@ -4,4 +4,4 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: 'angelrck/mydocker' 
+    image: 'angelrck/mydocker:latest' 
