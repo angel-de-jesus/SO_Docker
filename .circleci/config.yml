@@ -1,7 +1,7 @@
 version: 2.1
 jobs:
   build:
-    working_directory: ~/SOdocker
+    working_directory: ~/SO_Docker
     docker:
       - image: circleci/node:10.15.1
     steps:
